@@ -66,7 +66,7 @@ PORT = 53          # default DNS port
 - Large blocklists may incur a slight start‑up cost while loading into memory.
 
 ## License
-This project is released under the MIT License – see the `LICENSE` file for details.
+This project is released under the no licensce
 
 ## Contributing
 1. Fork the repository.
