@@ -1,5 +1,8 @@
 # DNS Proxy with Domain Blocking
 
+> [!WARNING]
+> **Maintenance Notice:** This project is archived and is no longer being maintained. It is provided as-is for educational or historical purposes.
+>
 ## Overview
 A lightweight **DNS proxy** written in Python that intercepts DNS queries, blocks requests for domains listed in a filter file, and forwards all other queries to **Cloudflare DNS (1.1.1.1)**. The proxy prints color‑coded logs to the console, works on Windows (enables ANSI colour codes) and Linux, and can run as a simple UDP server on port 53.
 
